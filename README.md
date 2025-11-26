@@ -130,6 +130,16 @@ Request body:
 
 <img width="1897" height="834" alt="Screenshot 2025-11-26 162722" src="https://github.com/user-attachments/assets/d9afe175-3f47-4006-a889-c39ab02d6d50" />
 
+📽 Demo Video
+
+🎯 A 1-minute walkthrough of the Real Estate Analysis Chatbot showcasing query handling, trend analysis, chart visualization, filtered data display, and download functionality.
+
+▶ Click below to watch:
+
+🔗 Direct Link (if image is not clickable):
+https://drive.google.com/file/d/12yH01YAM8BUF4T7dk_Cfg3bHKkdCkpkT/view?usp=sharing
+
+
 🧠 Future Improvements (Optional)
 
 Integrate OpenAI API for real summaries
