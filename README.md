@@ -67,6 +67,7 @@ Mobile responsive UI
 "Download the Specific Queries Content"
 
 📂 Folder Structure
+
 real_estate_chatbot/
 │── backend/
 │   ├── realestate/
