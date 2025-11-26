@@ -117,8 +117,6 @@ Request body:
 
 📸 Screenshots
 
-<img width="1765" height="738" alt="Screenshot 2025-11-26 010337" src="https://github.com/user-attachments/assets/4cc0791a-566d-4a77-9f19-a2686053b82f" />
-
 <img width="1918" height="871" alt="Screenshot 2025-11-26 161702" src="https://github.com/user-attachments/assets/073ed66c-c799-46ab-a813-9c70faa61b9e" />
 
 <img width="1918" height="873" alt="Screenshot 2025-11-26 161722" src="https://github.com/user-attachments/assets/c0ce628f-bd89-43ce-bc67-ef34cae26c2c" />
