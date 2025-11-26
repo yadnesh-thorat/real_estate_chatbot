@@ -21,15 +21,14 @@ Build a web-based chatbot that:
 📋 Filtered data table
 ✔ Supports bonus features like Data Download & Chat UI
 
-🏗 Tech Stack
-Layer	Technology
-Frontend	React (Vite) + Bootstrap + Recharts
-Backend	Django + Python
-Database	Excel-based dataset
-Deployment	Vercel (Frontend), Local backend
-Other	Axios, XLSX, File-Saver
-✨ Features
-🔍 Chatbot Features
+Tech Stack:
+
+Frontend  : React (Vite) + Bootstrap + Recharts
+Backend   : Django + Python
+Database  : Excel-based Dataset (Sample_data.xlsx)
+Deployment: Vercel (Frontend), Localhost Django (Backend)
+Other     : Axios, XLSX, File-Saver
+
 
 Natural language response (Mock LLM)
 
