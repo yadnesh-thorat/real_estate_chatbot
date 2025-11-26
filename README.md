@@ -69,26 +69,27 @@ Mobile responsive UI
 📂 Folder Structure
 
 real_estate_chatbot/
-├── backend/
-│   ├── realestate/
-│   ├── api/
-│   │   ├── views.py
-│   │   ├── urls.py
-│   │   ├── analysis.py
-│   ├── manage.py
-│   ├── Sample_data.xlsx
+├backend/	
+│   ├realestate/
+│  ├ api/
+│    │   ├ views.py
+│   │    ├ urls.py
+│   │    ├analysis.py
+│   |  |- manage.py
+│  ├ Sample_data.xlsx
 │
-├── frontend/
-│   ├── src/
-│   │   ├── Chat.jsx
-│   │   ├── ChartDisplay.jsx
-│   │   ├── TableDisplay.jsx
-│   │   ├── App.css
-│   │   ├── main.jsx
-│   ├── index.html
-│   ├── package.json
+├frontend/
+│   ├ src/
+│   │   ├ Chat.jsx
+│   │   ├ChartDisplay.jsx
+│   │   ├TableDisplay.jsx
+│   │   ├App.css
+│   │   ├main.jsx
+│  ├index.html
+│   |-package.json
 │
 └── README.md
+
 
 🚀 Setup Instructions
 📦 Backend (Django)
