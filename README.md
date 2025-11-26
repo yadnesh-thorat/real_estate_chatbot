@@ -69,7 +69,7 @@ Mobile responsive UI
 📂 Folder Structure
 
 real_estate_chatbot/
-│── backend/
+├── backend/
 │   ├── realestate/
 │   ├── api/
 │   │   ├── views.py
@@ -78,7 +78,7 @@ real_estate_chatbot/
 │   ├── manage.py
 │   ├── Sample_data.xlsx
 │
-│── frontend/
+├── frontend/
 │   ├── src/
 │   │   ├── Chat.jsx
 │   │   ├── ChartDisplay.jsx
